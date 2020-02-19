@@ -9,7 +9,7 @@ A repository for information about CORS
   * [Non-simple request server](https://repl.it/@apsillers/preflight-server)
   
 * Other resources:
-  * [Older by still-relevant HTML5 Rocks article](https://www.html5rocks.com/en/tutorials/cors/)
+  * [Older but still-relevant HTML5 Rocks article](https://www.html5rocks.com/en/tutorials/cors/)
   * [MDN `fetch` documentation](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch)
   * [`cors` middleware docs](https://github.com/expressjs/cors)
   * [Enable CORS website](https://enable-cors.org)
